@@ -1,1 +1,1 @@
-Project worked on with Two others t make a bus managemet system
+Project worked on with Two others to make a bus managemet system
